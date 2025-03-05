@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "105432439235",
+    "project_id": "firebasicv2-5c207",
+    "storage_bucket": "firebasicv2-5c207.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105432439235:android:cf6351c90ceec1e4600576",
+        "android_client_info": {
+          "package_name": "com.example.firebasics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZRfADhjF7BW9cHFpYW5NQA_IuzXqBHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105432439235:android:a40044d1775cdba2600576",
+        "android_client_info": {
+          "package_name": "com.example.st10301625_firebase_ice2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZRfADhjF7BW9cHFpYW5NQA_IuzXqBHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105432439235:android:f7685f392c819e39600576",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZRfADhjF7BW9cHFpYW5NQA_IuzXqBHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105432439235:android:0dc0540bf45336d4600576",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.registeractivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZRfADhjF7BW9cHFpYW5NQA_IuzXqBHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105432439235:android:618b5bccd308f8b2600576",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.st10301625_ice_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZRfADhjF7BW9cHFpYW5NQA_IuzXqBHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105432439235:android:0f925c80e0744109600576",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZRfADhjF7BW9cHFpYW5NQA_IuzXqBHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
